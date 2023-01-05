@@ -10,7 +10,7 @@ First Page is all about how to use:
   Ordered Lists
   Unordered Lists
 6. Links
-7. images
+7. images -> babekhyber.jpg
 8. Videos
 9. iFrames
 10. Tables
