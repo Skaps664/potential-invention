@@ -23,8 +23,8 @@ Second Page is about forms
 
 This is the last only html site and covers the basic structure of any website
 i-e:
-  .Header
-  .NavBar
-  .Main Body
+  1.Header
+  2.NavBar
+  3.Main Body
     .Has many section
-  .Footer
+  4.Footer
