@@ -1,7 +1,7 @@
-day 2 is all about learning html
-THe first files are very basic
+Day 2 is all about learning html
+The first files are very basic
 
-First PAge is all about how to use:
+First Page is all about how to use:
 1. Headings
 2. Paragraphs
 3. LineBreak
@@ -16,3 +16,5 @@ First PAge is all about how to use:
 10. Tables
   head
   body
+
+Second Page is about forms
