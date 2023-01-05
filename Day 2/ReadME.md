@@ -18,3 +18,12 @@ First Page is all about how to use:
   body
 
 Second Page is about forms
+
+3rd. Web_Structure
+Thtis is the last only html site and covers the basic structure of any website
+i-e:
+  Header
+  NavBar
+  Main Body
+    Has many section
+  Footer
