@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Second Page</title>
+  </head>
+  <body>
+    <a href="first.html" target="_blank">Go back to Page 1</a>
+    <h1>PAYEMENT FORM</h1>
+    <br />
+    <form action="">
+      <h2>Contact Info</h2>
+      <p>Name: <input type="text" name="name" /></p>
+      <fieldset>
+        <legend>Gender</legend>
+        <p>
+          Male <input type="radio" name="gender" id="Male" /> Female
+          <input type="radio" name="gender" id="Female" />
+        </p>
+      </fieldset>
+
+      <p>
+        Address
+        <textarea name="address" id="address" cols="80" rows="7"></textarea>
+      </p>
+      <p>Email <input type="email" name="email" id="email" /></p>
+      <p>Pincode <input type="number" name="pincode" id="pincode" /></p>
+      <h2>Payement Info</h2>
+      <p>
+        Card Type
+        <select name="card_type" id="card_type">
+          <option value="">---Select a Card Type</option>
+          <option value="visa">Visa</option>
+          <option value="master card">Master Card</option>
+        </select>
+      </p>
+      <p>
+        Card Number <input type="number" name="card_number" id="card_number" />
+      </p>
+      <p>CVV <input type="password" name="cvv" id="cvv" /></p>
+      <p>Expiry Date <input type="date" name="exp_date" id="exp_date" /></p>
+      <p><input type="button" value="Order Now" /></p>
+    </form>
+  </body>
+</html>
