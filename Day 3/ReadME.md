@@ -11,9 +11,8 @@ The only widely used is external: a link is given from html to css file.
 We learning about is:
 1. Selectors
 2. Color
-3. Backgrounds
-4. Borders
-5. Margins
-6. Texts
-7. Fonts
-8. 
+3. Unit Sizes
+4. Box Model
+5. Typography
+6. Styling List 
+7. mini Project
